@@ -1,1 +1,10 @@
-
+img {
+  height: 300px;
+  width: 250px;
+}
+.intro {
+  color: #BF200D;
+}
+.basic {
+  color: #10A8A1;
+}
