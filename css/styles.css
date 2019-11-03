@@ -1,6 +1,7 @@
 img {
   height: 300px;
   width: 250px;
+  align-items: stretch;
 }
 .intro {
   color: #BF200D;
