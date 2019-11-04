@@ -1,6 +1,6 @@
 # _**weekend project**_
 
-#### _a webpage about me, 11/02/2019_
+#### _A Web Page About Me, 11/02/2019_
 
 #### By _**Todd Walraven**_
 
@@ -18,7 +18,7 @@ _code is all self contained and pretty straightforward, if wanting to showcase i
 
 ## Known Bugs
 
-_none yet. Give it time, I'm sure ill run into something._
+_None yet! Give it time, I'm sure I'll run into something._
 
 ## technologies Used
 
@@ -29,7 +29,7 @@ _none yet. Give it time, I'm sure ill run into something._
 
 ### Support and Contact Details
 
-_If you run into any bugs or would like to contact the creator Email me at cod4247@yahoo.com_
+_If you run into any bugs or would like to contact the creator Email me at: cod4247@yahoo.com_
 
 ### License
 
